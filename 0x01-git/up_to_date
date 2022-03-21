@@ -1,1 +1,4 @@
-
+echo up_to_date 
+git add .
+git commit -m 'My first commit'
+git push 
