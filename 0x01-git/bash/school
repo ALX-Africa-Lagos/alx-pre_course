@@ -2,5 +2,5 @@
 update_script
 echo "The school is open!"
 =======
-echo "School"
+echo "The school is open!"
 main
